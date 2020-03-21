@@ -1,4 +1,4 @@
-# SS-more-Items-Accesable-everywere
+# SS-more-Items-optainable-everywere
 
 This gives you a file(ObjectPack.arc.LZ) that you can use to make more items optainable everywere.
 
