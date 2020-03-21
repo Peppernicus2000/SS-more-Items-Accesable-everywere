@@ -19,8 +19,6 @@ Items that can be get everywere with this file:
   - all Songs and the Harp
 
 Items that can't be gotten anymore while triggering the Textbox:
-  - Butterfly's
-  - Bee's
   - Evil Crystal
   - Jelly Blob
   - Monster Claw
