@@ -1,6 +1,6 @@
 # SS-more-Items-Accesable-everywere
 
-This gives you a file(ObjectPack.arc.LZ) that you can use to make more items accessible everywere.
+This gives you a file(ObjectPack.arc.LZ) that you can use to make more items optainable everywere.
 
 to Change your iso you need a programm that can replace something inside a iso.
   2 programms that work for sure are: WiiScrubber and Wii Iso Tools (WIT).
